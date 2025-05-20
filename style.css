@@ -1,0 +1,15 @@
+* {
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+    background-color: white;
+    font-family: "Roboto Mono", monospace;
+    
+}
+
+
+.header{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
